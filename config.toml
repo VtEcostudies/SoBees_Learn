@@ -1,4 +1,4 @@
-baseURL = 'https://vtecostudies.github.io/SOBees_Learn'
+baseURL = 'https://vtecostudies.github.io/SoBees_Learn'
 languageCode = 'en-us'
 
 # This is a "one page"-website, so we do not need these kinds of pages...
